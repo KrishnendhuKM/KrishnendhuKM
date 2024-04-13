@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a Web Project😎**
 
-- 🌱 I’m currently learning **Java and JavaScript😉**
+- 🌱 I’m currently learning **Data Structure and Algorithm😉**
 
-- 🤝 I’m looking for help with **Data Structure and Algorithm😢**
+- 🤝 I’m looking for help with **Java😢**
 
 - 💬 Ask me about **Anything I'm happy to help😊**
 
